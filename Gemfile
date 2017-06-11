@@ -1,8 +1,11 @@
 source 'https://rubygems.org'
 # gem 'github-pages'
 gem 'minima'
-
-# gem 'kramdown'
+gem "jekyll"
+gem "jekyll-paginate"
+gem 'kramdown'
+gem "html-proofer"
+gem "pygments.rb"
 # group :development, :test do
 #   gem 'jekyll', '~> 3.4.3'
 #   gem 'jekyll-redirect-from', '~> 0.12.1'
