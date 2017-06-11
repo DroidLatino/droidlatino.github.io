@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            DroidLatino
+description:      "Android Developers de Latino America"
 logo:             logo.png
-disqus_shortname: hmfaysal
+disqus_shortname: droidlatino
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -11,7 +11,7 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           DroidLatino
   avatar:         hmfaysal.jpg
   email:          hmfaysal@alum.mit.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
@@ -47,7 +47,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Dhaka
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
